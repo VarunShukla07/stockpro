@@ -1,6 +1,3 @@
-Here’s a formatted version of your README:
-
-```markdown
 # StockPro
 
 **StockPro** is a stock price prediction project designed to forecast stock prices using advanced machine learning techniques. The project provides a user-friendly interface through Streamlit for easy interaction and visualization of stock predictions.
@@ -42,5 +39,3 @@ pip install streamlit pandas numpy scikit-learn matplotlib yfinance
 - **View Predictions**: The app will display the predicted stock prices and other relevant information.
 
 ```
-
-This version provides clear installation instructions and ensures the URL for accessing the interface is clickable.
