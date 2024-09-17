@@ -14,7 +14,6 @@ To run this project, you need to have Python installed along with the following 
 - `matplotlib`
 - `yfinance`
 
-
 ## Getting Started
 
 1. **Run the Application**
@@ -33,10 +32,4 @@ To run this project, you need to have Python installed along with the following 
 
 - **Input Stock Symbol**: Enter the ticker symbol of the stock you want to predict.
 - **View Predictions**: The app will display the predicted stock prices and other relevant information.
-
----
-
-Happy predicting!
 ```
-
-You can adjust the dependencies and instructions based on the specific details and libraries you are using in your project.
