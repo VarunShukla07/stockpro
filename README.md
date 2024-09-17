@@ -1,3 +1,5 @@
+Here’s a formatted version of your README:
+
 ```markdown
 # StockPro
 
@@ -14,6 +16,12 @@ To run this project, you need to have Python installed along with the following 
 - `matplotlib`
 - `yfinance`
 
+You can install these packages using pip:
+
+```bash
+pip install streamlit pandas numpy scikit-learn matplotlib yfinance
+```
+
 ## Getting Started
 
 1. **Run the Application**
@@ -26,10 +34,13 @@ To run this project, you need to have Python installed along with the following 
 
 2. **Access the Interface**
 
-   Open your web browser and navigate to `http://localhost:8501` to interact with the application.
+   Open your web browser and navigate to [http://localhost:8501](http://localhost:8501) to interact with the application.
 
 ## Usage
 
 - **Input Stock Symbol**: Enter the ticker symbol of the stock you want to predict.
 - **View Predictions**: The app will display the predicted stock prices and other relevant information.
+
 ```
+
+This version provides clear installation instructions and ensures the URL for accessing the interface is clickable.
