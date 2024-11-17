@@ -38,7 +38,11 @@ pip install streamlit pandas numpy scikit-learn matplotlib yfinance
 - **Input Stock Symbol**: Enter the ticker symbol of the stock you want to predict.
 - **View Predictions**: The app will display the predicted stock prices and other relevant information.
 
-![image](https://github.com/user-attachments/assets/6f9c5fa7-a537-4c1b-87a2-12382b490986)
-![image](https://github.com/user-attachments/assets/9690f09a-e2ec-4363-aca9-15ff0eec2b67)
+![image](https://github.com/user-attachments/assets/611f7169-3c6d-454e-92c6-4cb734423ba3)
+![image](https://github.com/user-attachments/assets/46035f66-a1f8-41a9-8f2a-be66454d796d)
+![image](https://github.com/user-attachments/assets/223a8597-aa54-4a59-b725-e9dad7f3a8fb)
+
+
+
 
 
